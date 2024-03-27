@@ -1,0 +1,8 @@
+there are three main primitive types in javascript and typescript
+1.boolean
+2.number
+3.string
+
+there are two less common primitive types in later version of typescript and javascript.
+1.bigint - whole numbers and floating point values, but allows larger negative and positive numbers than the number type.
+2.symbol are used to create a globally unique identifier.
